@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: ResidueTheorem.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: plainnat.bst
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+Database file #1: ResidueTheorem.bib
+You've used 12 entries,
+            2773 wiz_defined-function locations,
+            668 strings with 6268 characters,
+and the built_in function-call counts, 3996 in all, are:
+= -- 321
+> -- 184
+< -- 14
++ -- 66
+- -- 54
+* -- 242
+:= -- 653
+add.period$ -- 39
+call.type$ -- 12
+change.case$ -- 46
+chr.to.int$ -- 12
+cite$ -- 24
+duplicate$ -- 237
+empty$ -- 378
+format.name$ -- 74
+if$ -- 827
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 20
+newline$ -- 71
+num.names$ -- 48
+pop$ -- 133
+preamble$ -- 1
+purify$ -- 42
+quote$ -- 0
+skip$ -- 166
+stack$ -- 0
+substring$ -- 24
+swap$ -- 15
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 92
+warning$ -- 0
+while$ -- 36
+width$ -- 0
+write$ -- 160

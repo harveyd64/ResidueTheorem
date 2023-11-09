@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{}%
+\contentsline {section}{\numberline {2}Homotopies}{2}{}%
+\contentsline {section}{\numberline {3}Winding Numbers}{3}{}%
+\contentsline {subsection}{\numberline {3.1}Lifting}{3}{}%
+\contentsline {subsection}{\numberline {3.2}Interpreting Winding Numbers}{4}{}%
+\contentsline {subsection}{\numberline {3.3}Calculating Winding Numbers}{4}{}%
+\contentsline {section}{\numberline {4}The Laurent Series}{8}{}%
+\contentsline {section}{\numberline {5}The Residue Theorem}{11}{}%
+\contentsline {subsection}{\numberline {5.1}Residues}{11}{}%
+\contentsline {subsection}{\numberline {5.2}Proof of the Residue Theorem}{12}{}%
+\contentsline {subsection}{\numberline {5.3}The Residue Theorem in Action}{13}{}%
+\contentsline {subsection}{\numberline {5.4}Further Applications of the Residue Theorem}{14}{}%
+\contentsline {subsubsection}{\numberline {5.4.1}The Basel Problem}{14}{}%
+\contentsline {subsubsection}{\numberline {5.4.2}Calculating Inductance}{15}{}%
+\contentsline {section}{\numberline {6}Conclusion}{15}{}%
